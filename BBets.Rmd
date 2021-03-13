@@ -42,7 +42,7 @@ URN = 1:365
 # What is Brownlow's average profit/loss
 
 ```{r}
-classSize = 40
+classSize = 36
 winAmount= 1
 loseAmount= 4.25
 bank = 0
