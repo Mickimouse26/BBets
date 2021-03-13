@@ -65,21 +65,28 @@ favstats(saveBank)
 
 ```
 
-
+Dr. Brownlow's profit is $43.
 
 ### What size of class makes the 2:1 bet fair?  
 
 
-<!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
+<!--Explain and display the results of The class size ofyour method of coming up with the estimate of professor Brownlows betting profits!-->
+
+ Class of 36 makes the bet fair per the graph above.
 
 
 ### In the class and payoff as described what is a 95% confidence interval for Brownlow's earnings?
+
   
 <!--Explain and display your method of coming up with a 95% confidence interval of  professor Brownlows winnings (or losings)-->
 
 
+The lower confidence intervals that Dr. J would win would be r lcl
+
 ### Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
+
+In conclusion to makw his profits center on zero, he should payout $4.25 to 1. if the class remain to be 36.
 
