@@ -42,7 +42,7 @@ URN = 1:365
 # What is Brownlow's average profit/loss
 
 ```{r}
-classSize = 35
+classSize = 40
 winAmount= 1
 loseAmount= 4.25
 bank = 0
@@ -68,7 +68,10 @@ favstats(saveBank)
 
 
 ### What size of class makes the 2:1 bet fair?  
+
+
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
+
 
 
 ### In the class and payoff as described what is a 95% confidence interval for Brownlow's earnings?
