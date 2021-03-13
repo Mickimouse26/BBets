@@ -48,7 +48,7 @@ loseAmount= 4.25
 bank = 0
 test= vector('numeric')
 saveBank=vector('numeric')
-for(j in 1:1000){
+for(j in 1:30){
   bank=0
 for(i in 1:637){
 test =sample(URN, size =classSize, replace=TRUE)
