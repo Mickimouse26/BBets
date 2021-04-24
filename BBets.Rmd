@@ -130,5 +130,5 @@ The confidence interval that Dr. J would win would be `r lcl` to `r ucl`
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
-In conclusion to makw his profits center on zero, he should payout $4.25 to 1. if the class remain to be 36.
+In conclusion to make his profits center on zero, he should payout $4.25 to 1. if the class remain to be 35. The class size that makes 2 to 1 a fair bet is 28. The 95% confidence interval in the original game is `r lcl` to `r ucl`.
 
